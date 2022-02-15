@@ -1,0 +1,50 @@
+/* Nunito & Overpass */
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&family=Overpass:wght@400;700&family=Raleway:wght@800&display=swap');
+
+/* https://fonts.google.com/specimen/Nunito */
+/* https://fonts.google.com/specimen/Overpass */
+
+
+/* FONT NAME */
+/* ---------------------------------------------------------------------- */
+
+/* Regular */
+/* @font-face {
+    font-family: '#';
+    src: url('./assets/fonts/#.woff2') format('woff2'),
+        url('./assets/fonts/#.woff') format('woff');
+    font-weight: 400;
+} */
+
+/* Medium */
+/* @font-face {
+    font-family: '#';
+    src: url('./assets/fonts/#.woff2') format('woff2'),
+        url('./assets/fonts/#.woff') format('woff');
+    font-weight: 500; 
+} */
+
+/* Semibold */
+/* @font-face {
+    font-family: '#';
+    src: url('./assets/fonts/#.woff2') format('woff2'),
+        url('./assets/fonts/#.woff') format('woff');
+    font-weight: 600; 
+} */
+
+/* Bold */
+/* @font-face {
+    font-family: '#';
+    src: url('./assets/fonts/#.woff2') format('woff2'),
+        url('./assets/fonts/#.woff') format('woff');
+    font-weight: 700; 
+} */
+
+/* Black */
+/* @font-face {
+    font-family: '#';
+    src: url('./assets/fonts/#.woff2') format('woff2'),
+        url('./assets/fonts/#.woff') format('woff');
+    font-weight: 900;
+} */
+/* ---------------------------------------------------------------------- */
