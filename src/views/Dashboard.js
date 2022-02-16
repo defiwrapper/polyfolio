@@ -51,7 +51,7 @@ const Dashboard = () => {
           <div className='flex justify-between'> 
             <div>
               <h2>$13,337,337.00</h2>
-              <div className='text-green3PF text-sm mt-px'><span>+0.02%</span><span className='ml-2 bg-[rgba(16,199,162,0.2)] rounded'>+$0.56</span></div>
+              <div className='text-green3PF text-sm mt-px'><span>+0.02%</span><span className='ml-2 bg-[rgba(16,199,162,0.2)] rounded px-1'>+$0.56</span></div>
             </div>
 
             <select name="networks" id="networks" >
@@ -204,7 +204,7 @@ const AssetRow = (props) => {
       <div className='w-[24%] h-10 flex items-center'><span className='bg-[rgba(39,198,159,0.2)] h-6 w-[3.25rem] font-bold rounded text-center'>{alloc*100}%</span></div>
 
       <div className='w-[24%] h-10 flex flex-col justify-center items-end text-lg font-bold leading-7'>${price}
-        <div className='text-green3PF text-sm mt-px font-normal leading-4'><span>+${changeUSD}</span><span className='ml-[0.625rem] bg-[rgba(16,199,162,0.2)] rounded'>+{changePer}%</span></div>
+        <div className='text-green3PF text-sm mt-px font-normal leading-4'><span>+${changeUSD}</span><span className='ml-[0.625rem] bg-[rgba(16,199,162,0.2)] rounded px-1'>+{changePer}%</span></div>
       </div>
 
       <div className='w-[24%] h-10 flex flex-col justify-center items-end text-lg font-bold leading-7'>${valueUSD}
@@ -226,7 +226,7 @@ const ProtocolRow = (props) => {
       </div>
 
       <div className='w-[32%] h-10 flex flex-col justify-center items-end text-lg font-bold leading-7'>${valueUSD}
-        <div className='text-green3PF text-sm mt-px font-normal leading-4'><span>+${changeUSD}</span><span className='ml-[0.625rem] bg-[rgba(16,199,162,0.2)] rounded'>+{changePer}%</span></div>
+        <div className='text-green3PF text-sm mt-px font-normal leading-4'><span>+${changeUSD}</span><span className='ml-[0.625rem] bg-[rgba(16,199,162,0.2)] rounded px-1'>+{changePer}%</span></div>
       </div>
 
       <div className='w-[32%] h-10 flex flex-col justify-center items-end text-base font-bold leading-7'>${claimable}</div>
