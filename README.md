@@ -6,8 +6,6 @@
 [Connect -- https://polyfolio.netlify.app](https://polyfolio.netlify.app/)  
 [Dashboard -- https://polyfolio.netlify.app/dashboard](https://polyfolio.netlify.app/dashboard)
 
-
-------
 <br/>
 
 ## Folders & Files Structure
